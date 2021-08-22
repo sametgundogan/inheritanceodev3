@@ -6,7 +6,7 @@ public class Main {
 
 		InstructorUser engin = new InstructorUser();
 		engin.setFirstName("Engin");
-		engin.setLastName("Gündoğan");
+		engin.setLastName("Demiroğ");
 		engin.setUserId(193000);
 		engin.position = "Java";
 		engin.instructorNumber = 0001;
